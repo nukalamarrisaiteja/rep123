@@ -4,8 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-    <h1>Hanman</h1>
-    <img src="./hanmanimages/Hanman.webp"></img>
+   <h1>This heading is added sai</h1>
     </div>
   );
 }
